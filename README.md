@@ -2,7 +2,7 @@
 <h1>Hey there 👋 I'm Joyline Rencita Dsouza</h1>
   <p align="center">
   
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=500&color=8217D7&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI+Designer" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=500&color=4169e1&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI+Designer" alt="Typing SVG" />
  </p>
   <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
