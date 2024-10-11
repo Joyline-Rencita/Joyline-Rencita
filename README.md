@@ -27,8 +27,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
 <br> <br>
-<div align="center" style="background-color:#000000; padding: 20px; border-radius: 15px;">
-  <h2 style="color:#FFD700;">🛠 Languages and Tools</h2>
+<div align="center">
+  <h2>🛠 Languages and Tools</h2>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
