@@ -30,36 +30,37 @@
 <div align="center">
   <h2>🛠 Languages and Tools</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" style="margin-right: 14px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="margin-right: 14px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" style="margin-right: 14px;" />
-    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" style="margin-right: 14px;" />
-    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo" style="margin-right: 14px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" style="margin-right: 14px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo" style="margin-right: 14px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo" style="margin-right: 14px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" style="margin-right: 14px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript" style="margin-right: 14px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VSCode" style="margin-right: 14px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" title="Chrome" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="GitHub" style="margin-right: 14px;" />
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" title="React" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="TailwindCSS" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jQuery" style="margin-right: 14px;" />
+    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" title="WordPress" style="margin-right: 14px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo" title="WooCommerce" style="margin-right: 14px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo" title="FileZilla" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo" title="Appwrite" style="margin-right: 14px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" style="margin-right: 14px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" title="Google" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" title="Replit" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" title="PowerShell" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" title="Netlify" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="Vite" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" title="Vercel" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" title="Atom" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js" style="margin-right: 14px;" />
   </div>
 </div>
+
 
