@@ -29,68 +29,38 @@
 <br> <br>
 <div align="center">
   <h2>🛠 Languages and Tools</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-</div>
-
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html" height="40" width="14" alt="html5 logo" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" width="14" alt="css3 logo" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="14" alt="bootstrap logo" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" width="14" alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="14" alt="vscode logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" width="14" alt="chrome logo" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" width="14" alt="git logo" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" width="14" alt="github logo" />
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" width="14" alt="react logo" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="14" alt="tailwindcss logo" />
+    <img src="https://skillicons.dev/icons?i=jquery" height="40" width="14" alt="jquery logo" />
+    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" width="14" alt="photoshop logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="14" alt="php logo" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" width="14" alt="mysql logo" />
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40" width="14" alt="wordpress logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" width="14" alt="woocommerce logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" width="14" alt="filezilla logo" />
+    <img src="https://skillicons.dev/icons?i=appwrite" height="40" width="14" alt="appwrite logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="14" alt="canva logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="14" alt="google logo" />
+    <img src="https://skillicons.dev/icons?i=replit" height="40" width="14" alt="replit logo" />
+    <img src="https://skillicons.dev/icons?i=redux" height="40" width="14" alt="redux logo" />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" width="14" alt="postman logo" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="40" width="14" alt="powershell logo" />
+    <img src="https://skillicons.dev/icons?i=netlify" height="40" width="14" alt="netlify logo" />
+    <img src="https://skillicons.dev/icons?i=vite" height="40" width="14" alt="vite logo" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" width="14" alt="vercel logo" />
+    <img src="https://skillicons.dev/icons?i=atom" height="40" width="14" alt="atom logo" />
+    <img src="https://skillicons.dev/icons?i=ps" height="40" width="14" alt="adobephotoshop logo" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="14" alt="nodejs logo" />
+  </div>
 </div>
 
 
