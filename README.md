@@ -73,7 +73,7 @@
 <br><br>
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Joyline-Rencita&theme=highcontrast&no-frame=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Joyline-Rencita&theme=highcontrast&no-frame=false&margin-w=4&column=9" alt="GitHub Trophies" />
 </div>
 
 
