@@ -70,5 +70,7 @@
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
   </div>
 </div>
-
+<br><br>
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Joyline-Rencita-Dsouza&theme=onedark&no-frame=false&margin-w=4)
 
