@@ -26,7 +26,7 @@
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
-<br> <br>
+<br> 
 <div align="center">
   <h2>🛠 Languages and Tools</h2>
   <div align="center">
@@ -70,7 +70,7 @@
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
   </div>
 </div>
-<br><br>
+<br>
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=Joyline-Rencita&theme=highcontrast&no-frame=false&margin-w=4&column=9" alt="GitHub Trophies" />
