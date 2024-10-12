@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats"> 
 <br> 
 <div align="center">
   <h2>🛠 Languages and Tools</h2>
