@@ -71,6 +71,9 @@
   </div>
 </div>
 <br><br>
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Joyline-Rencita&theme=onedark&no-frame=false&margin-w=4)
+<div align="center">
+  # 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Joyline-Rencita&theme=highcontrast&no-frame=false&margin-w=4)
+</div>
+
 
