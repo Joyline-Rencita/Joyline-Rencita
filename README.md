@@ -7,7 +7,7 @@
 <table>
     <tr>
         <td>
-          <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; border: 1px solid transparent; overflow: hidden;" />
+          <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
         </td>
         <td>
           <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
