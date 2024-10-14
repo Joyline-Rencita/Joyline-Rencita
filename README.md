@@ -4,7 +4,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=500&color=f1c40f&center=true&vCenter=true&width=435&lines=Frontend+Developer;Fullstack+Developer" alt="Typing SVG" />
  </p>
   
-<table>
+<table style="border-collapse: collapse; border: none;">
     <tr>
         <td>
           <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
