@@ -4,9 +4,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=500&color=f1c40f&center=true&vCenter=true&width=435&lines=Frontend+Developer;Fullstack+Developer" alt="Typing SVG" />
  </p>
 <!--  <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast&hide_border=true" alt="GitHub Streak" />  -->
-<div style="max-width: 150px; height: 70px; overflow: hidden;">
-    <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast&hide_border=true" alt="GitHub Streak" style="width: 100%; height: auto;" />
-</div>
+<img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast&hide_border=true" alt="GitHub Streak" style="width: 360px; height: auto;" />
 
 
   <br>
