@@ -3,7 +3,7 @@
   <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=500&color=f1c40f&center=true&vCenter=true&width=435&lines=Frontend+Developer;Fullstack+Developer" alt="Typing SVG" />
  </p>
-<!--  <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast&hide_border=true" alt="GitHub Streak" />  -->
+  
 <table>
     <tr>
         <td>
@@ -34,8 +34,7 @@
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">  <!-- displays giyhub stats -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">   displays giyhub stats -->
 <br> 
 <div align="center">
   <h2>🛠 Languages and Tools</h2>
