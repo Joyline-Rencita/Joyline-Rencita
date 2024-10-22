@@ -52,10 +52,10 @@
     <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" style="margin-right: 14px;" />
     <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" title="React" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js" style="margin-right: 14px;" />
-  <!--   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" title="Vue.js" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" title="Vue.js" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" title="PostgreSQL" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="TailwindCSS" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jQuery" style="margin-right: 14px;" /> -->
+    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jQuery" style="margin-right: 14px;" /> 
 <!--     <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" /> -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" title="WordPress" style="margin-right: 14px;" />
