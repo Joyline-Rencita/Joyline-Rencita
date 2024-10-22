@@ -50,9 +50,9 @@
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="GitHub" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" style="margin-right: 14px;" />
-   <!-- <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" title="React" style="margin-right: 14px;" />
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" title="React" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" title="Vue.js" style="margin-right: 14px;" />
+  <!--   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" title="Vue.js" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" title="PostgreSQL" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="TailwindCSS" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jQuery" style="margin-right: 14px;" /> -->
