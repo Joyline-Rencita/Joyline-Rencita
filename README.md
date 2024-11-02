@@ -50,6 +50,7 @@
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="GitHub" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" style="margin-right: 14px;" />
+    <img src="https://cdn.simpleicons.org/express/white" height="40" alt="Express.js logo" title="Express.js" style="margin-right: 14px;" />
     <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" title="React" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" title="Vue.js" style="margin-right: 14px;" />
@@ -61,7 +62,6 @@
     <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" title="WordPress" style="margin-right: 14px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular logo" title="Angular" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" title="Vercel" style="margin-right: 14px;" />
-<!--    <img src="https://cdn.simpleicons.org/express/white" height="40" alt="Express.js logo" title="Express.js" style="margin-right: 14px;" /> -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="40" alt="ASP.NET logo" title="ASP.NET" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo" title="Appwrite" style="margin-right: 14px;" /> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" style="margin-right: 14px;" />
