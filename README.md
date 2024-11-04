@@ -62,7 +62,7 @@
     <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" title="WordPress" style="margin-right: 14px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular logo" title="Angular" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" title="Vercel" style="margin-right: 14px;" />
-    <img src="https://www.celonis.com/favicon.ico" height="40" alt="Celonis logo" title="Celonis Process Mining" style="margin-right: 14px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Celonis-Logo-2020-blue.svg/512px-Celonis-Logo-2020-blue.svg.png" height="40" alt="Celonis logo" title="Celonis Process Mining" style="margin-right: 14px;" />
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="40" alt="ASP.NET logo" title="ASP.NET" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo" title="Appwrite" style="margin-right: 14px;" /> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" style="margin-right: 14px;" />
