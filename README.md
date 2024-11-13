@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" style="margin-right: 14px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VSCode" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse logo" title="Eclipse" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" title="SQL" style="margin-right: 14px;" />
+    <img src="https://cdn.simpleicons.org/apache/netbeans/blue" height="40" alt="NetBeans logo" title="NetBeans" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="GitHub" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" style="margin-right: 14px;" />
