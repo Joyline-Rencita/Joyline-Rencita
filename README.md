@@ -65,7 +65,7 @@
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="40" alt="ASP.NET logo" title="ASP.NET" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo" title="Appwrite" style="margin-right: 14px;" /> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" style="margin-right: 14px;" />
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" title="Google" style="margin-right: 14px;" /> -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" title="Google" style="margin-right: 14px;" />
 <!--     <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" title="Replit" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" style="margin-right: 14px;" /> -->
