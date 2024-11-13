@@ -44,6 +44,7 @@
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" style="margin-right: 14px;" />
+    <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" title="Flask" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" style="margin-right: 14px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VSCode" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse logo" title="Eclipse" style="margin-right: 14px;" />
