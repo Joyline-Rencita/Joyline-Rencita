@@ -11,7 +11,7 @@
           <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast" alt="GitHub Streak" />
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&border_radius=15&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
         </td>
     </tr>
 </table>
