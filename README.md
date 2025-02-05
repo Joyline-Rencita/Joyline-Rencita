@@ -68,7 +68,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" style="margin-right: 14px;" />
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" title="Google" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" title="Replit" style="margin-right: 14px;" /> -->
-    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" style="margin-right: 14px;" />
+<!--     <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" style="margin-right: 14px;" /> -->
     <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" title="PowerShell" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" title="Netlify" style="margin-right: 14px;" />
