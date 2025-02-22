@@ -74,7 +74,7 @@
     <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" title="Netlify" style="margin-right: 14px;" />
  <!--   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="Vite" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" title="Atom" style="margin-right: 14px;" /> -->
-    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
+<!--     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" /> -->
   </div>
 </div>
 <br>
