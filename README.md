@@ -75,7 +75,7 @@
  <!--   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="Vite" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" title="Atom" style="margin-right: 14px;" /> -->
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/​[…]/Celonis_Logo.png" height="40" alt="Celonis logo" title="Celonis" style="margin-right:14px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Celonis_Logo.png" height="40" alt="Celonis logo" title="Celonis" style="margin-right:14px;" />
     
   </div>
 </div>
@@ -84,3 +84,5 @@
   <h2>🏆 GitHub Trophies 🏆</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=Joyline-Rencita&theme=highcontrast&no-frame=false&margin-w=4&column=9" alt="GitHub Trophies" />
 </div> --> 
+
+
