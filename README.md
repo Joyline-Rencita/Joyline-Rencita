@@ -75,7 +75,7 @@
  <!--   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="Vite" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" title="Atom" style="margin-right: 14px;" /> -->
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
-    <img src="https://raw.githubusercontent.com/Joyline-Rencita-Dsouza/icon/726d835f8d25234e67a1b5638a576faca416c18c/celonis.svg" height="40" alt="Celonis logo" title="Celonis" style="margin-right:14px;" />
+    <img src="https://github.com/Joyline-Rencita-Dsouza/icon/blob/main/celonis_logo.png?raw=true" height="40" alt="Celonis logo" title="Celonis" style="margin-right:14px;" />
 
   </div>
 </div>
