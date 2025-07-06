@@ -33,7 +33,7 @@
 </table>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">   displays giyhub stats -->
 <br> 
-<div align="center">
+<!-- <div align="center">
   <h2>🛠 Languages and Tools 🛠</h2>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" style="margin-right: 14px;" />
@@ -59,21 +59,21 @@
     <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="TailwindCSS" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jQuery" style="margin-right: 14px;" /> 
 <!--     <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" /> -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP" style="margin-right: 14px;" />
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" title="WordPress" style="margin-right: 14px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular logo" title="Angular" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" title="Vercel" style="margin-right: 14px;" />
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="40" alt="ASP.NET logo" title="ASP.NET" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo" title="Appwrite" style="margin-right: 14px;" /> -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" style="margin-right: 14px;" />
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" style="margin-right: 14px;" />
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" title="Google" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" title="Replit" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" style="margin-right: 14px;" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" style="margin-right: 14px;" /> -->
-    <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" title="PowerShell" style="margin-right: 14px;" />
+<!--    <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" title="PowerShell" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" title="Netlify" style="margin-right: 14px;" />
  <!--   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="Vite" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" title="Atom" style="margin-right: 14px;" /> -->
+ <!--    <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" title="Atom" style="margin-right: 14px;" /> 
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
     <img src="https://github.com/Joyline-Rencita-Dsouza/icon/blob/main/celonis_logo.png?raw=true"
      height="40" alt="Celonis logo" title="Celonis"
@@ -81,7 +81,8 @@
 
   </div>
 </div>
-<br>
+<br> 
+
 <!-- <div align="center">
   <h2>🏆 GitHub Trophies 🏆</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=Joyline-Rencita&theme=highcontrast&no-frame=false&margin-w=4&column=9" alt="GitHub Trophies" />
