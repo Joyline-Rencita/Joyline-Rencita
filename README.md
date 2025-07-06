@@ -79,7 +79,6 @@
      height="40" alt="Celonis logo" title="Celonis"
      style="margin-right:14px; border-radius:8px;" />
 
-
   </div>
 </div>
 <br>
