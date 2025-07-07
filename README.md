@@ -33,7 +33,7 @@
 </table>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">   displays giyhub stats -->
 <br> 
- <div align="center">
+<!--  <div align="center">
   <h2>🛠 Languages and Tools 🛠</h2>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" style="margin-right: 14px;" />
@@ -57,7 +57,7 @@
     <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" title="Vue.js" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" title="PostgreSQL" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="TailwindCSS" style="margin-right: 14px;" />
-    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jQuery" style="margin-right: 14px;" /> 
+    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jQuery" style="margin-right: 14px;" />  COMMENT ENDS HERE-->  
 <!--     <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" /> -->
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" title="WordPress" style="margin-right: 14px;" />
