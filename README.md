@@ -33,7 +33,7 @@
 </table>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">   displays giyhub stats -->
 <br> 
-<!-- <div align="center">
+ <div align="center">
   <h2>🛠 Languages and Tools 🛠</h2>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" style="margin-right: 14px;" />
@@ -79,7 +79,7 @@
      height="40" alt="Celonis logo" title="Celonis"
      style="margin-right:14px; border-radius:8px;" />
 
-<!--  </div>
+  </div>
 </div>
 <br> 
 
