@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <h1>Hey there 👋 I'm Joyline Rencita Dsouza</h1> -->
-  <h1>Hey there <img src="https://github.com/Joyline-Rencita-Dsouza/icon/blob/main/wave-hello.gif?raw=true" height="5" alt="Celonis logo" title="Celonis" style="margin-right:14px; border-radius:8px;" /> I'm Joyline Rencita Dsouza</h1>
+  <h1>Hey there <img src="https://github.com/Joyline-Rencita-Dsouza/icon/blob/main/wave-hello.gif?raw=true" height="25" alt="Celonis logo" title="Celonis" style="margin-right:14px; border-radius:8px;" /> I'm Joyline Rencita Dsouza</h1>
   <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=500&color=f1c40f&center=true&vCenter=true&width=435&lines=Process+Mining+Trainee;Frontend+Developer;Graphic+Designer;FullStack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
  </p>
