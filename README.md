@@ -16,7 +16,7 @@
         </td>
     </tr>
 </table>
-<!--    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joyline-Rencita&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />               <!-- displays the graph card--> 
+ 
 <br>
 <div align="center">
 <table>
@@ -85,4 +85,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Joyline-Rencita&theme=highcontrast&no-frame=false&margin-w=4&column=9" alt="GitHub Trophies" />
 </div> --> 
 
-
+<!--    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joyline-Rencita&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />               <!-- displays the graph card--> 
