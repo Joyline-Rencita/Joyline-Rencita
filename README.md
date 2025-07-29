@@ -39,7 +39,7 @@
   <div align="center">
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" style="margin-right: 14px;" /> -->
     <img src="https://skillicons.dev/icons?i=c" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" style="margin-right: 14px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java logo" title="Java" style="margin-right: 14px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" style="margin-right: 14px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" title="Jupyter Notebook" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML" style="margin-right: 14px;" />
