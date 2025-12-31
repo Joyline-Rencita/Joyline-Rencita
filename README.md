@@ -8,7 +8,7 @@
     <tr>
         <td>
 <!--    <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast&hide_border=true" alt="GitHub Streak" />    GITHUB STREAK     -->
-<!--     <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita" alt="GitHub Streak" /> -->
+<!--     <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita" alt="GitHub Streak" /> --> 
           <img src="https://streak-stats.demolab.com/?user=Joyline-Rencita&theme=highcontrast" alt="GitHub Streak" />
         </td> 
         <td>
