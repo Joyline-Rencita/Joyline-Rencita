@@ -77,6 +77,7 @@
           <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" style="margin-right: 14px;" /> -->
    <!--   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" style="margin-right: 14px;" />  -->
   <!--    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" /> -->
+    
   </div>
 </div>
 <br> 
